@@ -12,7 +12,7 @@ const T = new Twit({
   strictSSL:            true,     // optional - requires SSL certificates to be valid.
 })
 
-const stream = T.stream('statuses/filter', { track: 'venom' })
+const stream = T.stream('statuses/filter', { track: ['node', 'npm', 'nodejs', 'node.js', 'javascript'] })
 console.log('Subscribed!')
 
 stream.on('tweet', function (tweet) {
