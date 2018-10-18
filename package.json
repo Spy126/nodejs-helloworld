@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Spy126/nodejs-helloworld.git"
+    "url": "git+https://github.com/spy126/nodejs-helloworld.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Spy126/nodejs-helloworld/issues"
+    "url": "https://github.com/spy126/nodejs-helloworld/issues"
   },
-  "homepage": "https://github.com/Spy126/nodejs-helloworld#readme",
+  "homepage": "https://github.com/spy126/nodejs-helloworld#readme",
   "dependencies": {
     "dotenv": "^6.1.0",
     "twit": "^2.2.11"
